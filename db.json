@@ -7,7 +7,7 @@
         "duration": "7 days",
         "difficulty": "Intermediate",
         "description": "Experience a breathtaking trekking adventure in the majestic Himalayas. Explore stunning landscapes and challenge yourself with exhilarating trails.",
-        "image": "https://example.com/images/mountain-trek.jpg"
+        "image": "https://cdn.tourradar.com/s3/content-pages/2323/360x360/53RsZN.jpg"
       },
       {
         "id": 2,
@@ -16,7 +16,7 @@
         "duration": "5 days",
         "difficulty": "Beginner",
         "description": "Embark on an unforgettable journey through the Amazon Rainforest. Encounter diverse wildlife, hike through lush jungles, and immerse yourself in nature's wonders.",
-        "image": "https://example.com/images/jungle-safari.jpg"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwOrTBpP53YGYel2ojZ1-WioE4QCk1kQ6gIee0AFc-PaigrD9skhRcO2RhYqtfM4jCD084NnjAWvE&usqp=CAU&ec=48600112"
       },
       {
         "id": 3,
@@ -25,7 +25,115 @@
         "duration": "3 days",
         "difficulty": "Advanced",
         "description": "Dive into the mesmerizing world of the Great Barrier Reef. Explore vibrant coral reefs, encounter colorful marine life, and witness the beauty of the underwater world.",
-        "image": "https://example.com/images/scuba-diving.jpg"
+        "image": "https://osagreatadventure.com/wp-content/uploads/2023/05/DSC_3583.jpg"
+      },
+      {
+        "id": 4,
+        "title": "Sahara Desert Trek",
+        "location": "Sahara Desert",
+        "duration": "10 days",
+        "difficulty": "Intermediate",
+        "description": "Embark on an epic trekking adventure in the vast Sahara Desert. Traverse the golden dunes, witness stunning sunsets, and experience the rich culture of the desert nomads.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5UIskndrEXzAVbvAu_GY6KUA1JmpBDMBslL3LWXWVbeJXMq3IHh9YH5TTvb-u45U8-6_RmGmkIXc&usqp=CAU&ec=48600112"
+      },
+      {
+        "id": 5,
+        "title": "Whitewater Rafting",
+        "location": "Colorado River",
+        "duration": "2 days",
+        "difficulty": "Intermediate",
+        "description": "Get your adrenaline pumping with an exhilarating whitewater rafting expedition on the Colorado River. Navigate thrilling rapids, enjoy breathtaking scenery, and create unforgettable memories.",
+        "image": "https://cdn.tourradar.com/s3/content-pages/2323/360x360/53RsZN.jpg"
+      },
+      {
+        "id": 6,
+        "title": "Skiing Adventure",
+        "location": "Swiss Alps",
+        "duration": "5 days",
+        "difficulty": "Intermediate",
+        "description": "Hit the slopes and indulge in an exciting skiing adventure in the Swiss Alps. Glide through pristine snow, experience stunning alpine vistas, and enjoy cozy evenings in mountain resorts.",
+        "image": "https://cdn.tourradar.com/s3/content-pages/2323/360x360/ZCsbLN.png"
+      },
+      {
+        "id": 7,
+        "title": "Cycling Tour",
+        "location": "Tuscany, Italy",
+        "duration": "6 days",
+        "difficulty": "Beginner",
+        "description": "Embark on a scenic cycling tour through the beautiful landscapes of Tuscany, Italy. Pedal through rolling hills, vineyards, and charming villages, and savor delicious local cuisine.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTylBoHDLxa_udPbw70STT9N7YNBFoR6ufafZb4RIhMkg&usqp=CAU&ec=48600112"
+      },
+      {
+        "id": 8,
+        "title": "Kayaking Expedition",
+        "location": "Norwegian Fjords",
+        "duration": "8 days",
+        "difficulty": "Intermediate",
+        "description": "Paddle through the stunning Norwegian Fjords on an unforgettable kayaking expedition. Explore hidden coves, encounter marine wildlife, and camp under the midnight sun.",
+        "image": "https://osagreatadventure.com/wp-content/uploads/2023/05/DSC_3583.jpg"
+      },
+      {
+        "id": 9,
+        "title": "Bungee Jumping",
+        "location": "Queenstown, New Zealand",
+        "duration": "1 day",
+        "difficulty": "Advanced",
+        "description": "Take a leap of faith and experience the ultimate thrill of bungee jumping in Queenstown, New Zealand. Dive from towering heights and feel the rush of adrenaline like never before.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMj1ZG-hxEq3EpKG89YkcLOh3hY51L-yn3yLOVOkIQSg&usqp=CAU&ec=48600112"
+      },
+      {
+        "id": 10,
+        "title": "Wildlife Photography Safari",
+        "location": "Maasai Mara, Kenya",
+        "duration": "4 days",
+        "difficulty": "Beginner",
+        "description": "Embark on a wildlife photography safari in Maasai Mara, Kenya. Capture stunning images of majestic animals in their natural habitat and witness the awe-inspiring Great Migration.",
+        "image": "https://example.com/images/wildlife-safari.jpghttps://cdn.tourradar.com/s3/content-pages/2323/360x360/e6ve9W.png"
+      },
+      {
+        "id": 11,
+        "title": "Rock Climbing Adventure",
+        "location": "Yosemite National Park, USA",
+        "duration": "3 days",
+        "difficulty": "Advanced",
+        "description": "Challenge yourself with an exhilarating rock climbing adventure in Yosemite National Park, USA. Scale vertical granite walls, conquer famous routes, and enjoy breathtaking views.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkuJ97DDWHf_cJRlMCW_amCqMpdrFgIF8YOuWcN1y_EA&usqp=CAU&ec=48600112"
+      },
+      {
+        "id": 12,
+        "title": "Hot Air Balloon Ride",
+        "location": "Cappadocia, Turkey",
+        "duration": "1 day",
+        "difficulty": "Beginner",
+        "description": "Soar above the surreal landscapes of Cappadocia in a magical hot air balloon ride. Admire the unique rock formations, fairy chimneys, and enjoy panoramic views of the region.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSplHtr2IVnrItD-mBpr7-mmcpU5tfW7BkfbuUQExedsg&usqp=CAU&ec=48600112"
+      },
+      {
+        "id": 13,
+        "title": "Dog Sledding Expedition",
+        "location": "Alaska, USA",
+        "duration": "5 days",
+        "difficulty": "Intermediate",
+        "description": "Experience the thrill of mushing your own dog sled team through the stunning wilderness of Alaska. Enjoy the serenity of snowy landscapes and the bond with your canine companions.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9_1wgXphniisz9lJDhV0bofp_vAm1D9wJrn_tZbUZTQ&usqp=CAU&ec=48600112"
+      },
+      {
+        "id": 14,
+        "title": "Paragliding Experience",
+        "location": "Interlaken, Switzerland",
+        "duration": "1 day",
+        "difficulty": "Beginner",
+        "description": "Soar high above the Swiss Alps with a paragliding experience in Interlaken. Enjoy breathtaking views of the mountains, lakes, and picturesque Swiss towns while floating in the air.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSplHtr2IVnrItD-mBpr7-mmcpU5tfW7BkfbuUQExedsg&usqp=CAU&ec=48600112"
+      },
+      {
+        "id": 15,
+        "title": "Canyoning Adventure",
+        "location": "Blue Mountains, Australia",
+        "duration": "1 day",
+        "difficulty": "Intermediate",
+        "description": "Embark on an exciting canyoning adventure in the Blue Mountains of Australia. Descend into rugged canyons, abseil down waterfalls, and plunge into natural pools for an adrenaline-filled experience.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgjRHEn2anOJPoQjx8c-bwdGQNRPHb_4j6i4j2FNmShA&usqp=CAU&ec=48600112"
       }
     ]
   }
