@@ -135,6 +135,12 @@
         "description": "Embark on an exciting canyoning adventure in the Blue Mountains of Australia. Descend into rugged canyons, abseil down waterfalls, and plunge into natural pools for an adrenaline-filled experience.",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgjRHEn2anOJPoQjx8c-bwdGQNRPHb_4j6i4j2FNmShA&usqp=CAU&ec=48600112"
       }
+    ],
+    "user":[
+      {
+        "email":"gauravraj2601@gmail.com",
+        "password":"gaurav123"
+      }
     ]
   }
   
